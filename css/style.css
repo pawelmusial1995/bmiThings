@@ -1,17 +1,18 @@
 body  {
-background: #acabab;
+background: #f2eeee;
 margin-left: 50px;
 margin-right: 50px;
     
 }
 
 header h1 {
-    background-color: #f8f8f8;
+    background-color: #f2eeee;
     height: 100px;
     font-size: 50px;
     font-family: sans-serif;
-    color: #0612a3;
+    color: #3943bf;
     margin: 0 ;
+    text-align: center;
 }
 /* background jpg */
 #container{
@@ -31,6 +32,8 @@ body nav ul {
     margin: 0;
     list-style: none; 
     margin-bottom: 0px;
+    text-decoration: none;
+    
 }
 
 /* wysrodkowanie menu */
@@ -42,7 +45,7 @@ li {
     font-size: 18px;
     width: 250px;
     text-decoration: none;
-    color: yellowgreen;
+    color: black;
     background-color: white;
     padding: 10px 15px;
     margin 0px 1px 1px 0px;
@@ -54,9 +57,9 @@ li {
 }
 
 li:hover {
-color: blue;
-background: aqua;
-border: 1px solid blue;
+color: #4949f5;
+background: white;
+border: 1px solid black;
 }
  
 #obliczenia {
@@ -121,6 +124,17 @@ footer {
 }
 
 
+
+#naMase {
+    background-color: black;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+}
+
+#mainContainer {
+
+}
 
 
 

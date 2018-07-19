@@ -1,1 +1,26 @@
 http://bmi-online.pl/
+
+ <section id="obliczenia">
+        <p><h3>Oblicz swoje <strong>BMI</strong></h3></p> </br>
+         <form>
+        <label> P³eæ: </label>	<br>
+					<input type="radio" name="gender"> Kobieta <br>
+					<input type="radio" name="gender"> Mêszczyzna
+					<br><br>
+             
+        <label> Waga: </label> <br>
+             <input type="button" name="Waga"> Waga (kg) <br>
+             <input type="button" name="Wzrost"> Wzrost (cm) <br><br>
+             
+             <h3>Zakresy wartoœci BMI:</h3> 
+             <p>mniej niz 16 - wyg³odzenie</p>
+             <p>16-16.99 - wychudzenie</p>
+             <p>17-18.49 - niedowaga</p>
+             <p>18.5-24.99 - wartoœæ prawid³owa</p>
+             <p>25 - 29.99 - nadwaga</p>
+             <p>30 - 34.99 - I stopieñ oty³oœci</p>
+             <p>35 - 39.99 - II stopieñ oty³oœci</p>
+             <p>powy¿ej 40 - oty³oœæ skrajna</p>
+             
+        </form>
+        </section> <!-- Section END -->
