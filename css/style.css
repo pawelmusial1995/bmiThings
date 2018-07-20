@@ -132,12 +132,26 @@ footer {
     text-align: center;
 }
 
-#mainContainer {
-
+#produkty {
+text-align: center;
+   
 }
 
+#produkty h3 {
+     display: flex;
+ justify-content: center;
+ align-items: center;
+    margin-top: -20px;
+    
+    
+}
 
-
+#ranking {
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
 
 
